@@ -1,4 +1,4 @@
-# gatitos
+# gatitos.html
 <!DOCTYPE html>
 <html>
   <head>
